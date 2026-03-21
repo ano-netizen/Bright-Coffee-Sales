@@ -14,4 +14,7 @@ The Bright Coffee Shop has been facing a decline in its revenue for the past 6 m
 The following steps for taken for the succesion of this project:
  - Project planning using Miro.
  - Administrating ideas using Miro.
- - Uploading the data from Excel to the Data Bricks catalog.
+ - Uploading the data from Excel to the Databricks.
+ - Proccessing the data using Databricks.
+
+### Summarry of Results:
