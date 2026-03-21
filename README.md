@@ -16,5 +16,6 @@ The following steps for taken for the succesion of this project:
  - Administrating ideas using Miro.
  - Uploading the data from Excel to the Databricks.
  - Proccessing the data using Databricks.
+ - Export proccessed Data into Excel for Data Visualization.
 
 ### Summarry of Results:
