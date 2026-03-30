@@ -21,8 +21,9 @@ The following steps for taken for the succesion of this project:
  - Created Presentation with CANVA, including insights, reccomendations alongside the implementation plans for the betterment of the Coffee shop.
 
 ### Summarry of Results:Revenue Growth:
+
 Revenue Growth:
--June revenue increased by 45% compared to January, showing strong seasonal growth.
+ -June revenue increased by 45% compared to January, showing strong seasonal growth.
 
  Revenue by Day:
 - Weekdays outperform weekends significantly (R160k–R180k vs R60k–R80k).
