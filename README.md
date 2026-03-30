@@ -39,5 +39,4 @@ Revenue by Product Category:
 
  ### Overall Insight:
  
--Bright Coffee’s revenue is concentrated in weekdays, mornings, and core products (coffee & tea). This creates strong foundations but also exposes vulnerabilities. Afternoon, weekend, and secondary product categories represent clear growth opportunities.
--The shop is highly dependent on weekday commuters and morning demand.There are clear opportunities to expand into afternoon/evening sales and weekend promotions.Diversifying product focus beyond coffee and tea could unlock new revenue streams.
+Bright Coffee’s revenue is concentrated in weekdays, mornings, and core products (coffee & tea). This creates strong foundations but also exposes vulnerabilities. Afternoon, weekend, and secondary product categories represent clear growth opportunities.The shop is highly dependent on weekday commuters and morning demand.There are clear opportunities to expand into afternoon or evening sales and weekend promotions.Diversifying product focus beyond coffee and tea could unlock new revenue streams.
