@@ -32,12 +32,12 @@ Revenue Growth:
 Revenue by Time of Day:
 - Morning Rush dominates (56%), with Afternoon (23%) and Evening (21%) trailing.
 - Heavy reliance on morning customers suggests untapped potential later in the day.
-- 
+
 Revenue by Product Category:
 - Coffee beans and Tea are the top sellers, far ahead of Bakery, Chocolate, Flavours, and Branded items.
 - Revenue is concentrated in core beverage products, leaving other categories underutilized.
 
  ### Overall Insight:
+ 
 -Bright Coffee’s revenue is concentrated in weekdays, mornings, and core products (coffee & tea). This creates strong foundations but also exposes vulnerabilities. Afternoon, weekend, and secondary product categories represent clear growth opportunities.
-
 -The shop is highly dependent on weekday commuters and morning demand.There are clear opportunities to expand into afternoon/evening sales and weekend promotions.Diversifying product focus beyond coffee and tea could unlock new revenue streams.
