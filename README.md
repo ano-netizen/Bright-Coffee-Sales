@@ -37,7 +37,7 @@ Revenue by Product Category:
 - Coffee beans and Tea are the top sellers, far ahead of Bakery, Chocolate, Flavours, and Branded items.
 - Revenue is concentrated in core beverage products, leaving other categories underutilized.
 
-  ## Key Take aways:
+  ### Key Take aways:
   
 The shop is highly dependent on weekday commuters and morning demand.There are clear opportunities to expand into afternoon or evening sales and weekend promotions.Diversifying product focus beyond coffee and tea could unlock new revenue streams.
 
