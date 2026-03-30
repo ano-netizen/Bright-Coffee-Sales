@@ -17,5 +17,26 @@ The following steps for taken for the succesion of this project:
  - Uploading the data from Excel to the Databricks.
  - Proccessing the data using Databricks.
  - Export proccessed Data into Excel for Data Visualization.
+ - Created Pivot Tables and Charts.
+ - Created Presentation with CANVA, including insights, reccomendations alongside the implementation plans for the betterment of the Coffee shop.
 
-### Summarry of Results:
+### Summarry of Results:Revenue Growth:
+Revenue Growth:
+-June revenue increased by 45% compared to January, showing strong seasonal growth.
+
+ Revenue by Day:
+- Weekdays outperform weekends significantly (R160k–R180k vs R60k–R80k).
+- Sales are driven by commuter traffic, highlighting a weekday dependency.
+  
+Revenue by Time of Day:
+- Morning Rush dominates (56%), with Afternoon (23%) and Evening (21%) trailing.
+- Heavy reliance on morning customers suggests untapped potential later in the day.
+- 
+Revenue by Product Category:
+- Coffee beans and Tea are the top sellers, far ahead of Bakery, Chocolate, Flavours, and Branded items.
+- Revenue is concentrated in core beverage products, leaving other categories underutilized.
+
+ ### Overall Insight:
+-Bright Coffee’s revenue is concentrated in weekdays, mornings, and core products (coffee & tea). This creates strong foundations but also exposes vulnerabilities. Afternoon, weekend, and secondary product categories represent clear growth opportunities.
+
+-The shop is highly dependent on weekday commuters and morning demand.There are clear opportunities to expand into afternoon/evening sales and weekend promotions.Diversifying product focus beyond coffee and tea could unlock new revenue streams.
